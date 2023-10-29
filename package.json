@@ -1,0 +1,36 @@
+{
+  "name": "@kazesolo/scraped",
+  "description": "A very simple nodejs programming language that can make it easier to scrape websites.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "KazeDevID <kazedevid@gmail.com> (https://github.com/KazeDevID)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KazeDevID/scraped.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KazeDevID/scraped/issues"
+  },
+  "homepage": "https://github.com/KazeDevID/scraped#readme",
+  "dependencies": {
+    "@types/cheerio": "^0.22.31",
+    "assured": "^1.0.15",
+    "cheerio-req": "^2.0.0",
+    "scraped-core": "^1.0.0",
+    "typpy": "^2.3.13"
+  },
+  "devDependencies": {
+    "lien": "^3.4.2",
+    "tester": "^1.4.5"
+  },
+  "files": [
+    "lib/",
+    "index.js",
+    "index.d.ts"
+  ]
+}

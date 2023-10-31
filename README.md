@@ -285,4 +285,4 @@ this takes time. You can integrate and use these projects in your applications *
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-Coming soon!!
+- Stalk Twitter https://github.com/KazeDevID/scraped/blob/main/example/twitter.js

@@ -2,7 +2,7 @@
   "name": "@kazesolo/scraped",
   "description": "A very simple nodejs programming language that can make it easier to scrape websites.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
